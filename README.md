@@ -1,4 +1,4 @@
-Desafios intermediarios - C# - DIO - Pottencial
+1 / 3 - Elemento Majoritário
 
 Teste 1 - 
 
