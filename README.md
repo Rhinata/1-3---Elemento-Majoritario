@@ -1,4 +1,16 @@
-# Desafio
+Desafios intermediarios - C# - DIO - Pottencial
+
+Teste 1 - 
+
+Dado um array nums de tamanho n, retorne o elemento majoritário, isto é, o elemento que aparece o maior número de vezes no seu array.
+Entrada
+A primeira linha da entrada deverá ser o número referente ao tamanho do seu array. As demais linhas nums serão os valores da sua array.
+
+Saída
+A saída deverá retornar o número que aparece o maior número de vezes na sua array, ou seja, o elemento majoritário.
+
+
+**Resolução em C#**
 
 using System;
 using System.Text.RegularExpressions;
@@ -12,6 +24,8 @@ public class Program
         int[] num = new int[n];
     
 // TODO: Crie as outras condições necessárias para a resolução do desafio:
+
+
         for (int i =0;i<n ;i++)
         {
             num[i] = int.Parse(Console.ReadLine());
