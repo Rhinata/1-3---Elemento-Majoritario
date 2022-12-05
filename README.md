@@ -15,6 +15,7 @@ A saída deverá retornar o número que aparece o maior número de vezes na sua 
 using System;
 using System.Text.RegularExpressions;
 
+
 public class Program
 {
     public static void Main(String[] args)
@@ -22,6 +23,7 @@ public class Program
         int n = int.Parse(Console.ReadLine());
         
         int[] num = new int[n];
+        
     
 // TODO: Crie as outras condições necessárias para a resolução do desafio:
 
